@@ -15,6 +15,7 @@ This list contains tools and resources on observability. Want to contribute? Cre
 7. [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 8. [Middleware](https://middleware.io/): Middleware is a full-stack observability platform that detects issues from infra, APM, RUM and resolves them using the AI SRE Agent.
 9. [Respan](https://www.respan.ai/ai-gateway): A full-stack AI engineering platform for LLM and agent observability, with tracing, evals, prompt management, and a gateway across 250+ models.
+10. [whatbroke](https://github.com/arthi-arumugam-git/whatbroke): A CLI that diffs an AI agent's behavior between two runs, covering tool calls, arguments, cost and latency, with imports for OTLP GenAI spans, Langfuse and LangSmith exports.
 
 
 ### Monitoring
