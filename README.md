@@ -112,3 +112,4 @@ This list contains tools and resources on observability. Want to contribute? Cre
 * [Emerging observability trends to watch out for](https://eyer.ai/blog/emerging-observability-trends-to-watch-out-for/?nocache=84829)
 * [Real-time monitoring of microservices and cloud-native applications](https://developer.ibm.com/articles/realtime-monitoring-instana-saas/)
 * [Observability with Grafana and Eyer](https://eyer.ai/blog/observability-with-grafana-and-eyer/)
+* [AIOps Platforms and Tools Compared: What They Do and How to Choose](https://aiagentsearch.ai/aiops-platforms-and-tools.html)
