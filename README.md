@@ -16,6 +16,7 @@ This list contains tools and resources on observability. Want to contribute? Cre
 8. [Middleware](https://middleware.io/): Middleware is a full-stack observability platform that detects issues from infra, APM, RUM and resolves them using the AI SRE Agent.
 9. [Respan](https://www.respan.ai/ai-gateway): A full-stack AI engineering platform for LLM and agent observability, with tracing, evals, prompt management, and a gateway across 250+ models.
 10. [Muscula](https://muscula.com/) - A cloud-based observability platform that provides error tracking, centralized logging, uptime monitoring, and AI-assisted debugging for applications and websites.
+11. [Telemio](https://telemio.sh) - OpenTelemetry-native hosted observability for investigating service logs, traces, metrics, and incidents.
 
 ### Monitoring
 
